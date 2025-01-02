@@ -7,6 +7,7 @@ Source: [https://www.freecodecamp.org/learn/full-stack-developer/](https://www.f
 1. [HTML Projects](./HTML/)
    - [Basic Cat Photo App](./HTML/cat-photo-app/index.html)
    - [Basic Recipe Page](./HTML/recipe-page/index.html)
+   - [Basic Travel Agency Page](./HTML/travel-agency-page/index.html)
 2. [CSS Projects](./CSS)
 3. [JavaScript Projects](./JS)
 4. [Front End Libraries Projects](./Front%20End%20Libraries)
